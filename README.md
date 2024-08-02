@@ -6,23 +6,6 @@
 
 ###
 
-<h2 align="left">Table of contents</h2>
-
-###
-
-<p align="left">
-<ul>
-  <li> <a href="#Installation">Installation </a> </li>
-  <li> <a href="#Usage">Usage </a> </li>
-  <li> <a href="#Dataset">Dataset </a> </li>
-  <li> <a href="#Model and Methodology">Model and Methodology </a> </li>
-  <li> <a href="#Contributing">Contributing </a> </li>
-  <li> <a href="#License">License </a> </li>
-</ul>  
-</p>
-
-###
-
 <div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn">
     <div class="flex-col gap-1 md:gap-3">
         <div class="flex flex-grow flex-col max-w-full">
