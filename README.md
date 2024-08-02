@@ -1,11 +1,3 @@
-<h1 align="left">Diabetes Prediction using Machine Learning</h1>
-
-###
-
-<p align="left">This project aims to predict diabetes using various machine learning algorithms. The model is trained on the Pima Indians Diabetes Database and can provide predictions based on medical predictor variables.</p>
-
-###
-
 <div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn">
     <div class="flex-col gap-1 md:gap-3">
         <div class="flex flex-grow flex-col max-w-full">
