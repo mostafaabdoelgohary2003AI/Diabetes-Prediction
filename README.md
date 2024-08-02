@@ -30,7 +30,6 @@
                 class="min-h-[20px] text-message flex w-full flex-col items-end gap-2 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto">
                 <div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
                     <div class="markdown prose w-full break-words dark:prose-invert light">
-                        <p>Here's the customized README file with your provided metrics:</p>
                         <hr>
                         <h1>Diabetes Prediction using Machine Learning</h1>
                         <h2>Description</h2>
