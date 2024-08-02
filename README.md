@@ -120,7 +120,6 @@
                         <p>This project is licensed under the MIT License. See the <a rel="noreferrer">LICENSE</a> file
                             for details.</p>
                         <hr>
-                        <p>This structure should make your README file more comprehensive and user-friendly.</p>
                     </div>
                 </div>
             </div>
@@ -195,7 +194,7 @@
                         <div class="inline-flex rounded-xl border border-gray-100 dark:border-gray-700">
                             <div
                                 class="flex items-center justify-center gap-4 px-4 py-3 text-sm text-token-text-secondary">
-                                Is this conversation helpful so far?<div class="flex items-center gap-5"><button
+                                <div class="flex items-center gap-5"><button
                                         class="text-token-text-secondary hover:text-token-text-primary"><svg
                                             xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"
                                             viewBox="0 0 24 24" class="icon-md">
@@ -227,7 +226,6 @@
         </div>
     </div>
 </div>
-
 ###
 
 <h2 align="left">Software Used</h2>
