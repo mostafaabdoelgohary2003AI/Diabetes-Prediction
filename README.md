@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="128" alt="Diabetes-Prediction logo"></p>
+
 # Diabetes Prediction using Machine Learning
 
 A comprehensive machine learning project that predicts diabetes using the Pima Indians Diabetes Database. This project implements multiple algorithms to provide accurate predictions based on medical predictor variables.
